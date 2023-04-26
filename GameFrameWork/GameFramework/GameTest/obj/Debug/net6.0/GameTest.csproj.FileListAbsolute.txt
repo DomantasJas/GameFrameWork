@@ -1,0 +1,12 @@
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/bin/Debug/net6.0/GameTest.deps.json
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/bin/Debug/net6.0/GameTest.dll
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/bin/Debug/net6.0/GameTest.pdb
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/obj/Debug/net6.0/GameTest.csproj.AssemblyReference.cache
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/obj/Debug/net6.0/GameTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/obj/Debug/net6.0/GameTest.AssemblyInfoInputs.cache
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/obj/Debug/net6.0/GameTest.AssemblyInfo.cs
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/obj/Debug/net6.0/GameTest.csproj.CoreCompileInputs.cache
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/obj/Debug/net6.0/GameTest.dll
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/obj/Debug/net6.0/refint/GameTest.dll
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/obj/Debug/net6.0/GameTest.pdb
+/Users/Domantas/Desktop/AdvancedSoftwareDevelopment/Mandatory assignment/GameFramework/GameTest/obj/Debug/net6.0/ref/GameTest.dll
